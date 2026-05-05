@@ -1,7 +1,7 @@
 
 # 🚀 Luiz Moreira | Transformando Tecnologia em Resultados
 
-Bem-vindo(a)! Sou **Red Bones** (ksamicaseloli-uieu), desenvolvedor apaixonado por inovação, automação e tecnologia que fazem a diferença. Aqui você encontra meus principais projetos e uma prévia do meu universo dev!
+Bem-vindo(a)! Sou **Luiz Moreira** (RedBones), desenvolvedor apaixonado por inovação, automação e tecnologia. Aqui você encontra meus principais projetos e uma prévia do meu universo dev!
 
 
 ---
